@@ -6,3 +6,4 @@
 这是mergedemo上的内容
 >>>>>>> mergedemo
 version1
+version2
